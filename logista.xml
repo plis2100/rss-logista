@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-logista/main/logista.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 15:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:28:19 +0000</lastBuildDate>
+    <item>
+      <title>El futuro de la última milla en alimentación protagoniza los Encuentros Logista Parcel en Córdoba</title>
+      <link>https://www.logista.com/es/home/media/press-releases/20261020.html</link>
+      <guid isPermaLink="true">https://www.logista.com/es/home/media/press-releases/20261020.html</guid>
+      <description>Más de 20 empresas fueron invitadas a una jornada que reunió a profesionales del sector y contó con la participación de cinco compañías en las distintas ponencias.</description>
+      <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Logista Libros y Logista Retail se unen al Sporting Cabanillas para impulsar el deporte femenino</title>
       <link>https://www.logista.com/es/home/media/press-releases/20261015.html</link>
@@ -319,14 +327,6 @@
       <description>Respecto con 2024, el operador entregó 1,3 millones de ejemplares adicionales, lo que supone un crecimiento del 3,6 %. Tras el reciente informe de la FGEE que confirma la consolidación del hábito lector en España, la compañía incrementa sus entregas y refuerza la disponibilidad de catálogo.</description>
       <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
       <pubDate>Thu, 29 Jan 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Logista Strator refuerza su apuesta por la innovación con su participación en HIP 2026 junto a los líderes tecnológicos HP y apg Solutions</title>
-      <link>https://www.logista.com/es/home/media/press-releases/20260122.html</link>
-      <guid isPermaLink="true">https://www.logista.com/es/home/media/press-releases/20260122.html</guid>
-      <description>Logista Strator participa por primera vez en la feria de Horeca Professional, con una propuesta que ofrece a los comercios una experiencia de gestión más eficiente, segura y rentable.</description>
-      <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
-      <pubDate>Thu, 22 Jan 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
