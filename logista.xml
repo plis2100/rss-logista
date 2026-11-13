@@ -7,7 +7,15 @@
     <language>es-es</language>
     <ttl>60</ttl>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/rss-logista/main/logista.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 12 Nov 2026 13:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:21:34 +0000</lastBuildDate>
+    <item>
+      <title>Los Encuentros Logista Parcel reúnen en Málaga al sector alimentario para analizar los retos de la nueva logística del frío y la última milla</title>
+      <link>https://www.logista.com/es/home/media/press-releases/20261112.html</link>
+      <guid isPermaLink="true">https://www.logista.com/es/home/media/press-releases/20261112.html</guid>
+      <description>La jornada contó con la participación de Rosa Muñoz (OHAYŌ), Leonor García-Agua (Sabor a Málaga), Manuel Fernández (COFRICO), Martín Queijas (GRADHOC), Abel Rodríguez (Brotherfood Quality) y Jose Manuel Morales (Logista Parcel). Logista Parcel mantiene una sólida presencia operativa en la provincia de Málaga con cuatro cámaras de temperatura controlada, más de 2.400 posiciones de almacenamiento y una flota de 50 vehículos de reparto. Desde esta infraestructura Logista Parcel presta servicio a 130 clientes y contribuye a la generación de más de 30 empleos directos y en torno a 60 empleos indirectos en la región</description>
+      <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NACEX nombra a Xavier Calvo nuevo director general</title>
       <link>https://www.logista.com/es/home/media/press-releases/20261111.html</link>
@@ -319,14 +327,6 @@
       <description>El objetivo es poner en manos de los estancos y del retail español una tecnología para abrir nuevos canales de ingresos.</description>
       <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
       <pubDate>Tue, 10 Feb 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>NACEX cumple 31 años enfocada en la excelencia, la innovación y la sostenibilidad</title>
-      <link>https://www.logista.com/es/home/media/press-releases/20260206.html</link>
-      <guid isPermaLink="true">https://www.logista.com/es/home/media/press-releases/20260206.html</guid>
-      <description>Centrada en la calidad, la apuesta por la tecnología y el respeto por el medio ambiente, NACEX proporciona un servicio fiable, ágil y adaptado a las necesidades de sus clientes, lo que le ha permitido consolidar su posición en sectores estratégicos.</description>
-      <source url="https://www.logista.com/es/home/media/press-releases.html">Logista</source>
-      <pubDate>Fri, 06 Feb 2026 08:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
